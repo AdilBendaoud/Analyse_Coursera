@@ -9,10 +9,10 @@ This analysis explores the functionality and interactions within the Coursera pl
 Understanding how Coursera works is crucial for both learners and educators to comprehend the platform's underlying structure and the seamless delivery of educational content. The following sections delve into specific aspects of Coursera's operation through use cases, class structures, and dynamic sequences to provide a comprehensive overview of its functionality.
 
 ## Use Case Diagram 
-<img src="https://github.com/AdilBendaoud/Analyse_Coursera/assets/116393842/1042df1a-6010-46b2-acae-fca951c87058" width=65% height=50%>
+<img src="https://github.com/AdilBendaoud/Analyse_Coursera/assets/116393842/891bb907-50f1-4e8a-a8d0-aee263597532" width=65% height=50%>
 
 ## Class Diagram
-<img src="https://github.com/AdilBendaoud/Analyse_Coursera/assets/116393842/c7fee517-6746-4723-8459-1c18686663da" width="60%">
+<img src="https://github.com/AdilBendaoud/Analyse_Coursera/assets/116393842/5f2e1e4a-d2b0-4cfa-9c99-229ebf5313c8" width="60%">
 
 ## Sequence Diagram
 ### Sequence 1: Authentification
@@ -21,6 +21,14 @@ Understanding how Coursera works is crucial for both learners and educators to c
 ### Sequence 2: Enroll in the course
 <img src="https://github.com/AdilBendaoud/Analyse_Coursera/assets/116393842/365604aa-946b-4801-bcf1-fa73e42ead70" width="65%">
 
+### Sequence 3: Rate and Review Course
+<img src="https://github.com/AdilBendaoud/Analyse_Coursera/assets/116393842/352cd7f7-3829-4a42-a28f-b119ef6c698d" width="65%">
+
+### Sequence 4: Create a course
+<img src="https://github.com/AdilBendaoud/Analyse_Coursera/assets/116393842/09e4764f-1aa5-49d3-8b01-73a8de00b7c7" width="65%">
+
+### Sequence 5: Delete or Ban User
+<img src="https://github.com/AdilBendaoud/Analyse_Coursera/assets/116393842/2e9e9e8b-f0b9-41a9-be51-87066e1d22ee" width="65%">
 
 
 ## Conclusion
