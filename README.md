@@ -12,7 +12,16 @@ Understanding how Coursera works is crucial for both learners and educators to c
 <img src="https://github.com/AdilBendaoud/Analyse_Coursera/assets/116393842/1042df1a-6010-46b2-acae-fca951c87058" width=65% height=50%>
 
 ## Class Diagram
-<img src="https://github.com/AdilBendaoud/Analyse_Coursera/assets/116393842/c7fee517-6746-4723-8459-1c18686663da" width="65%">
+<img src="https://github.com/AdilBendaoud/Analyse_Coursera/assets/116393842/c7fee517-6746-4723-8459-1c18686663da" width="60%">
+
+## Sequence Diagram
+### Sequence 1: Authentification
+<img src="https://github.com/AdilBendaoud/Analyse_Coursera/assets/116393842/59e9a3ba-a6a3-4293-98a4-887c9c2183a6" width="60%">
+
+### Sequence 2: Enroll in the course
+<img src="https://github.com/AdilBendaoud/Analyse_Coursera/assets/116393842/365604aa-946b-4801-bcf1-fa73e42ead70" width="65%">
+
+
 
 ## Conclusion
 
